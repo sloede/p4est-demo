@@ -1,0 +1,5 @@
+build/
+p4est/
+demo.c
+demo
+testfile
