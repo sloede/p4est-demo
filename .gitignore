@@ -1,5 +1,6 @@
 build/
 p4est/
 demo.c
+demo.exe
 demo
 testfile
