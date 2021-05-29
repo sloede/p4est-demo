@@ -3,4 +3,7 @@ p4est/
 demo.c
 demo.exe
 demo
+demo_read_inp.c
+demo_read_inp.exe
+demo_read_inp
 testfile
